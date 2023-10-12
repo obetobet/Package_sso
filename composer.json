@@ -5,7 +5,7 @@
     "require-dev": {
         "guzzlehttp/guzzle": "^7.8"
     },
-    "license": "DAP",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Dutaabadiprimantara\\Sso\\": "src/"
