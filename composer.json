@@ -1,0 +1,24 @@
+{
+    "name": "dutaabadiprimantara/sso",
+    "description": "Singel Sign-on apps internal DAP",
+    "type": "library",
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "DAP",
+    "autoload": {
+        "psr-4": {
+            "Dutaabadiprimantara\\Sso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "obetobet",
+            "email": "robertricky666@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    }
+}
